@@ -45,8 +45,8 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 
 | Branch | Topic | Language |
 |--------|-------|----------|
-| [`pertemuan2`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Derivative-Using-Sympy) | Derivatives & Capacitor Current (SymPy) | Python |
-| [`pertemuan3`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Integral-Using-Sympy) | Integrals & Capacitor Energy (SymPy) | Python |
+| [`Calculating-Derivative-Using-Sympy`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Derivative-Using-Sympy) | Derivatives & Capacitor Current (SymPy) | Python |
+| [`Calculating-Integral-Using-Sympy`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Integral-Using-Sympy) | Integrals & Capacitor Energy (SymPy) | Python |
 
 ---
 
