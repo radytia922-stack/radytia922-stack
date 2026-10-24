@@ -41,7 +41,7 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 
 ---
 
-### Advanced Computer Programming — Universitas Widya Gama Malang
+### Advanced Computer Programming — University of Widya Gama Malang
 
 | Branch | Topic | Language |
 |--------|-------|----------|
