@@ -35,9 +35,9 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 
 | Branch | Topic | Language |
 |--------|-------|----------|
-| [`cs50-week1-cash`](https://github.com/radytia922-stack/week1/psets1/cash/tree/cs50-week1-cash) | Greedy Algorithm — Coin Change | C |
-| [`cs50-week1-mario`](https://github.com/radytia922-stack/week1/psets1/mario/tree/cs50-week1-mario) | Nested Loop — Mario Pyramid | C |
-| [`cs50-week2-scrabble`](https://github.com/radytia922-stack/week2/psets2/scrabble/tree/cs50-week2-scrabble) | Array & ASCII — Scrabble Score | C |
+| [`cs50-week1-cash`](https://github.com/radytia922-stack/CS50/tree/week1/psets1/cash) | Greedy Algorithm — Coin Change | C |
+| [`cs50-week1-mario`](https://github.com/radytia922-stack/CS50/tree/week1/psets1/mario) | Nested Loop — Mario Pyramid | C |
+| [`cs50-week2-scrabble`](https://github.com/radytia922-stack/CS50/tree/week2/psets2/scrabble) | Array & ASCII — Scrabble Score | C |
 
 ---
 
@@ -45,8 +45,8 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 
 | Branch | Topic | Language |
 |--------|-------|----------|
-| [`pertemuan2`](https://github.com/radytia922-stack/Calculating-Derivative-Using-Sympy/tree/pertemuan2) | Derivatives & Capacitor Current (SymPy) | Python |
-| [`pertemuan3`](https://github.com/radytia922-stack/Calculating-Integral-Using-Sympy/tree/pertemuan3) | Integrals & Capacitor Energy (SymPy) | Python |
+| [`pertemuan2`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Derivative-Using-Sympy) | Derivatives & Capacitor Current (SymPy) | Python |
+| [`pertemuan3`](https://github.com/radytia922-stack/Pemrograman-Komputer-Lanjut/tree/Calculating-Integral-Using-Sympy) | Integrals & Capacitor Energy (SymPy) | Python |
 
 ---
 
