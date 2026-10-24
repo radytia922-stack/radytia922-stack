@@ -21,6 +21,27 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+---
+
+# 🌱 Go-Hydro — Hydroponic Project
+
+> **[Explore the Go-Hydro Project Website](https://sites.google.com/view/go-hydro/home?authuser=1)**
+
+Go-Hydro was a group hydroponics project completed during my vocational high school (SMK) studies as part of a supplementary Basic IT course assignment.
+
+The Google Sites page documents the project and the team's process, from planning the hydroponic plant container to recording the plants' growth.
+
+**What's documented on the website?**
+
+- **Project Planning:** A sketch of the hydroponic plant container.
+- **Measurements:** Documentation of the container's dimensions.
+- **Project Progress:** Photos showing the container before renovation.
+- **Plant Growth:** Documentation of the hydroponic seeds' development.
+
+This project was a collaborative learning experience that combined practical work, teamwork, and project documentation.
+
+---
+
 # 📚 CS50x & Advanced Computer Programming
 
 This repository contains my solutions for **CS50x (Harvard University)** problem sets and assignments from **Advanced Computer Programming** course, Electrical Engineering — University of Widya Gama Malang.
