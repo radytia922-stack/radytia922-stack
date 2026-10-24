@@ -82,8 +82,8 @@ Each branch has its own `README.md` that explains the problem, how the code work
 
 ## 🛠️ Tools Used
 
-- **C** — CS50 Library, GCC Compiler (via cs50.dev)
-- **Python** — SymPy, Python 3
+- **C** — CS50 Library
+- **Python** — SymPy Library
 
 ---
 
