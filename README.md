@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Conversation Course on University**
 
-- 👨‍💻 All of my projects are available at [https://fragrant-wax-aaa.notion.site/Radit-s-Portfolio-98405d91f89083e88abe81a58be5c691?source=copy_link](https://fragrant-wax-aaa.notion.site/Radit-s-Portfolio-98405d91f89083e88abe81a58be5c691?source=copy_link)
+- 👨‍💻 All of my projects are available at [`Portfolio Website`](https://fragrant-wax-aaa.notion.site/Radit-s-Portfolio-98405d91f89083e88abe81a58be5c691?source=copy_link)
 
 - 📫 How to reach me **radytia922@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/raditya-nugraha-p](www.linkedin.com/in/raditya-nugraha-p)
+- 📄 Know about my experiences [`My LinkedIn Profile`](www.linkedin.com/in/raditya-nugraha-p)
 
 - ⚡ Fun fact **I like reading books (i've read 7 Habits of Highly Effective people)**
 
