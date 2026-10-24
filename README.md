@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raditya</h1>
-<h3 align="center">A passionate undergraduate from Indonesia</h3>
+<h3 align="center">A passionate Electrical Engineering Undergraduate from Indonesia</h3>
 
 - 🔭 I’m currently working on **CS50 (Week 2) Course**
 
