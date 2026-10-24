@@ -23,11 +23,11 @@
 
 ---
 
-# 🌱 Go-Hydro — Hydroponic Project
+# 🌱 Go-Hydro — Hydroponic Project Website
 
 > **[Explore the Go-Hydro Project Website](https://sites.google.com/view/go-hydro/home?authuser=1)**
 
-Go-Hydro was a group hydroponics project completed during my vocational high school (SMK) studies as part of a supplementary Basic IT course assignment.
+Go-Hydro Website was a group hydroponics project completed during my Vocational High School (SMK) studies as part of a supplementary Basic IT course assignment.
 
 The Google Sites page documents the project and the team's process, from planning the hydroponic plant container to recording the plants' growth.
 
