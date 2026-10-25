@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CS50 (Week 2) Course**
 
-- 🌱 I’m currently learning **Conversation Course on University**
+- 🌱 I’m currently learning **English Conversation Course on University of Widya Gama Malang**
 
 - 👨‍💻 All of my projects are available at [`Portfolio Website`](https://fragrant-wax-aaa.notion.site/Radit-s-Portfolio-98405d91f89083e88abe81a58be5c691?source=copy_link)
 
