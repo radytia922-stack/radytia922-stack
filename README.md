@@ -44,7 +44,7 @@ This project was a collaborative learning experience that combined practical wor
 
 # 📚 CS50x & Advanced Computer Programming
 
-This repository contains my solutions for **CS50x (Harvard University)** problem sets and assignments from **Advanced Computer Programming** course, Electrical Engineering — University of Widya Gama Malang.
+This repository contains my solutions for **CS50x (Harvard University)** problem sets and **Python using sympy library**.
 
 Each branch covers one topic or session. Click the branch you need from the table below.
 
