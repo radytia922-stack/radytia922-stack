@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raditya</h1>
 <h3 align="center">A passionate Electrical Engineering Undergraduate from Indonesia</h3>
 
-- 🔭 I’m currently working on **CS50 (Week 2) Course**
+- 🔭 I’m currently working on **CS50 (Week 3) Course**
 
 - 🌱 I’m currently learning **English Conversation Course at University of Widya Gama Malang**
 
@@ -59,6 +59,7 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 | [`cs50-week1-cash`](https://github.com/radytia922-stack/CS50/tree/week1/psets1/cash) | Greedy Algorithm — Coin Change | C |
 | [`cs50-week1-mario`](https://github.com/radytia922-stack/CS50/tree/week1/psets1/mario) | Nested Loop — Mario Pyramid | C |
 | [`cs50-week2-scrabble`](https://github.com/radytia922-stack/CS50/tree/week2/psets2/scrabble) | Array & ASCII — Scrabble Score | C |
+| [`cs50-week2-readability`](https://github.com/radytia922-stack/CS50/tree/week2/psets2/readability) | Readability | C |
 
 ---
 
