@@ -62,7 +62,7 @@ Each branch covers one topic or session. Click the branch you need from the tabl
 
 ---
 
-### Advanced Computer Programming — University of Widya Gama Malang
+### Python using Sympy Library
 
 | Branch | Topic | Language |
 |--------|-------|----------|
