@@ -42,7 +42,7 @@ This project was a collaborative learning experience that combined practical wor
 
 ---
 
-# 📚 CS50x & Advanced Computer Programming
+# 📚 CS50x & Python using sympy library
 
 This repository contains my solutions for **CS50x (Harvard University)** problem sets and **Python using sympy library**.
 
